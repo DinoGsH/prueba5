@@ -1,0 +1,68 @@
+/*PROPIEDAD OVERFLOW*/
+*{
+    
+   
+}
+
+
+.texto{
+    margin: 20px;
+    margin-top: 50px;
+    width: 320px;
+    height: 350px;
+    border: 4px solid red;
+    background: grey;
+    overflow-y: auto;
+    overflow-x:scroll;
+    
+    
+}
+
+
+
+
+
+.img1{
+    margin-left: 44px;
+    margin-top: 50px;
+    width: 280px;
+    height: 280px;
+    overflow-y:auto;
+    font-size: 20px;   
+    display: inline-block;
+    background: #f3e5ab;
+    font-family: 'Merriweather', serif;
+    font-family: 'Pacifico', cursive;
+    
+    
+    
+    
+}
+
+.img2{
+    margin-left: 44px;
+    margin-top: 50px;
+    width: 280px;
+    height: 280px;
+    border: 4px solid red;
+    overflow-y: auto;
+    font-size: 20px;   
+    display: inline-block;
+    background: #f3e5ab;
+    font-family: 'Merriweather', serif;
+    font-family: 'Pacifico', cursive;
+}
+
+.img3{
+    margin-left:  44px;
+    margin-top: 50px;
+    width: 280px;
+    height: 280px;
+    border: 4px solid red;
+    overflow-y: auto;
+    font-size: 20px;   
+    display: inline-block;
+    background: #f3e5ab;
+    font-family: 'Merriweather', serif;
+    font-family: 'Pacifico', cursive;
+}
