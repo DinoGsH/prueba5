@@ -66,3 +66,60 @@
     font-family: 'Merriweather', serif;
     font-family: 'Pacifico', cursive;
 }
+
+.img4{
+    margin-left:  44px;
+    margin-top: 50px;
+    width: 280px;
+    height: 280px;
+    overflow-y: auto;
+    font-size: 20px;   
+    display: inline-block;
+    background: #f3e5ab;
+    font-family: 'Merriweather', serif;
+    font-family: 'Pacifico', cursive;
+}
+
+
+b{
+    
+    top: 0px;
+    position:sticky;
+    display:block;
+    background: #f3e5ab;
+    font-family: 'Merriweather', serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Plaster', cursive;
+    font-family: 'Righteous', cursive;
+}
+
+.img5{
+
+    margin-left: 550px;
+    width: 320px;
+    height: 280px;
+    border: 4px solid red;
+    background-color: rgb(14, 1, 1);
+    display:inline-block;
+   overflow: hidden;
+
+
+}
+
+.barcel
+{
+    width: 200px;
+    position: relative;
+    top: 25px;
+    left: 45px;
+    transition: all 2s;
+    
+}
+
+.img5:hover > .barcel{
+    width: 250px;
+    position: relative;
+    top: 0px;
+    left: 22px;
+    
+}
